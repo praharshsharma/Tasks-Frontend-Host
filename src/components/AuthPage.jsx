@@ -11,10 +11,7 @@ export default function AuthPage() {
   const { isLoaded, userId } = useAuth(); 
   const words = [
     {
-      text: "Intelligent",
-    },
-    {
-      text: "task",
+      text: "Task",
     },
     {
       text: "management",
@@ -23,14 +20,14 @@ export default function AuthPage() {
       text: "system",
     },
     {
-      text: "using",
+      text: "by",
     },
     {
-      text: "MERN",
+      text: "PRAHARSH",
       className: "text-blue-500 dark:text-blue-500",
     },
     {
-      text: "Stack.",
+      text: "SHARMA",
       className: "text-blue-500 dark:text-blue-500",
     },
   ];
